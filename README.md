@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects related to alcohol and substance misuse/abuse
 - ⚡️ Fun fact: I am Lebanese and trilingual.
 - 📫 How to reach me: email me at lnehm001@fiu.edu!
-- 👩🏼‍💻 My website: 
+- 👩🏼‍💻 My website: https://lnehm001.quarto.pub/leanehme/
 
 <!---
 LeaNehme/LeaNehme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
